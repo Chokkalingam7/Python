@@ -1,0 +1,12 @@
+a={1,2,3,4,5,6,7,8,9,0}
+print(type(a))
+b=(1,2,3,4,5,6,7,8,9,0)
+print(type(b))
+c={"name":"Chokkalingam","age":25}
+print(type(c))
+print(c.keys())
+print(c.values())
+d=[1,2,3,4,5,6,7,8,9,0]
+print(type(d))
+e=d.append(12)
+print(e)
